@@ -1,1 +1,1 @@
-Here is my attempt at bootstrap using the late Stan Lee as my muse and insiration.
+you can click here to view the project  http://htmlpreview.github.io/?https://github.com/moniquesbeley/bootstrap/blob/master/news-article.html
